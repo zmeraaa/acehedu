@@ -14,9 +14,7 @@ AcehEdu adalah platform edukasi interaktif yang menyajikan sejarah **Kesultanan 
 * **Library:** Google Fonts (Cinzel & Inter).
 
 ### 🚀 Cara Penggunaan
-1. Clone repository ini.
-2. Jalankan di server lokal (XAMPP/Laragon).
-3. Buka `index.php` melalui browser.
+1. Buka `toolszm.gt.tc` melalui browser.
 
 ---
 *Developed with by zmeraa*
