@@ -7,6 +7,9 @@ AcehEdu adalah platform edukasi interaktif yang menyajikan sejarah **Kesultanan 
 * **Canvas Animation:** Efek bintang jatuh dan starfield dinamis menggunakan JavaScript.
 * **Micro-Interactions:** Efek 3D Tilt dan Magnetic Hover pada kartu materi.
 * **Mobile Ready:** Responsif untuk semua perangkat.
+* **Security Protocol** Anti-copy, anti-context menu, dan deteksi perpindahan tab otomatis.
+* **Immersive Experience:** Real-time clock hero element dan smooth scroll reveal animations.
+* **Advanced Interaction**: "Hold to Confirm" button logic untuk meminimalisir kesalahan klik sebelum mulai kuis.
 
 ### 🛠️ Tech Stack
 * **Frontend:** HTML5, CSS3 (Custom Variables), JavaScript (ES6), Bootstrap 5.
